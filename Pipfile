@@ -5,7 +5,16 @@ verify_ssl = true
 
 [dev-packages]
 
+
 [packages]
+jupyter = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+sklearn = "*"
+seaborn = "*"
+jupyterlab = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
